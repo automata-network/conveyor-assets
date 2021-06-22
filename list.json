@@ -1,0 +1,126 @@
+{
+    "name": "GToken List",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {
+        "supported": {
+            "name": "Supported",
+            "description": "No front running"
+        }
+    },
+    "logoURI": "https://www.automatanetwork.com/img/logo.c7c1b703.png",
+    "timestamp": "2021-05-05T20:55:51+0800",
+    "tokens": [
+        {
+            "name": "Geode ETH",
+            "chainId": 3,
+            "symbol": "gETH",
+            "decimals": 18,
+            "address": "0x37809fAC7cD4Fc4c4c9d7c7d2bB5eDd920DE9De2",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Geode Dai Stablecoin",
+            "chainId": 3,
+            "symbol": "gDAI",
+            "decimals": 18,
+            "address": "0xc16EC681A346BF0EeA607Ea5900724Ff26399030",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Geode USD Coin",
+            "chainId": 3,
+            "symbol": "gUSDC",
+            "decimals": 6,
+            "address": "0xFF2b28BE8B9a8e28f5f65a661879f7BeA3E1d611",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Geode Tether USD",
+            "chainId": 3,
+            "symbol": "gUSDT",
+            "decimals": 6,
+            "address": "0x0b8E3E331dAa0Cd134Ab1B5Bc6C7400486193BA8",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Dai Stablecoin",
+            "chainId": 97,
+            "symbol": "DAI",
+            "decimals": 18,
+            "address": "0x46B98eCfe9E90e1B1c03cbFFcbf72A5174b32C45",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 97,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0xF420614AA5a7fc21038b3AF7C154440F96379CC8",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 97,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0x4C1Debf613b58519D15a0177dCDB5166186DE4DE",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Wrapped BNB",
+            "chainId": 97,
+            "symbol": "WBNB",
+            "decimals": 18,
+            "address": "0x4fB312374D8973BD14d46Ea53156d42024F4C012",
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/bnb.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Dai Stablecoin",
+            "chainId": 56,
+            "symbol": "DAI",
+            "decimals": 18,
+            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 56,
+            "symbol": "USDC",
+            "decimals": 18,
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 56,
+            "symbol": "USDT",
+            "decimals": 18,
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Wrapped BNB",
+            "chainId": 56,
+            "symbol": "WBNB",
+            "decimals": 18,
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/bnb.svg",
+            "tags": ["supported"]
+        }
+    ]
+}
