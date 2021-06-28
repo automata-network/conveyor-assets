@@ -87,6 +87,15 @@
             "tags": ["supported"]
         },
         {
+            "name": "ATA",
+            "chainId": 97,
+            "symbol": "ATA",
+            "decimals": 18,
+            "address": "0x59988681a1E89bA6cA3454Ac7a8D0426A0479Bf9",
+            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+            "tags": ["supported"]
+        },
+        {
             "name": "Dai Stablecoin",
             "chainId": 56,
             "symbol": "DAI",
@@ -120,6 +129,15 @@
             "decimals": 18,
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "logoURI": "https://www.gemini.com/images/currencies/icons/default/bnb.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "ATA",
+            "chainId": 56,
+            "symbol": "ATA",
+            "decimals": 18,
+            "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
             "tags": ["supported"]
         }
     ]
