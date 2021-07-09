@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 0,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tags": {
@@ -15,7 +15,7 @@
     "timestamp": "2021-05-05T20:55:51+0800",
     "tokens": [
         {
-            "name": "Geode ETH",
+            "name": "Geode ETH11",
             "chainId": 3,
             "symbol": "gETH",
             "decimals": 18,
