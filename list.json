@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 0,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tags": {
@@ -96,15 +96,6 @@
             "tags": ["supported"]
         },
         {
-            "name": "Dai Stablecoin",
-            "chainId": 56,
-            "symbol": "DAI",
-            "decimals": 18,
-            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
-            "tags": ["supported"]
-        },
-        {
             "name": "USD Coin",
             "chainId": 56,
             "symbol": "USDC",
@@ -120,15 +111,6 @@
             "decimals": 18,
             "address": "0x55d398326f99059fF775485246999027B3197955",
             "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Wrapped BNB",
-            "chainId": 56,
-            "symbol": "WBNB",
-            "decimals": 18,
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "logoURI": "https://www.gemini.com/images/currencies/icons/default/bnb.svg",
             "tags": ["supported"]
         },
         {
