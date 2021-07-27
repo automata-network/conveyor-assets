@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tags": {
@@ -137,15 +137,6 @@
             "symbol": "USDT",
             "decimals": 6,
             "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Dai Stablecoin",
-            "chainId": 137,
-            "symbol": "DAI",
-            "decimals": 18,
-            "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
             "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
             "tags": ["supported"]
         },
