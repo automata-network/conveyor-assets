@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tags": {
@@ -191,7 +191,7 @@
             "symbol": "DAI",
             "decimals": 18,
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
             "tags": ["supported"]
         }
     ]
