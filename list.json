@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tags": {
@@ -156,6 +156,42 @@
             "decimals": 18,
             "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
             "logoURI": "https://quickswap.exchange/logo_circle.png",
+            "tags": ["supported"]
+        },
+        {
+            "name": "ATA",
+            "chainId": 1,
+            "symbol": "ATA",
+            "decimals": 18,
+            "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+            "tags": ["supported"]
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 1,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 1,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "Dai Stablecoin",
+            "chainId": 1,
+            "symbol": "DAI",
+            "decimals": 18,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
             "tags": ["supported"]
         }
     ]
