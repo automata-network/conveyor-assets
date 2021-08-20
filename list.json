@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tags": {
@@ -120,6 +120,33 @@
             "decimals": 18,
             "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
             "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+            "tags": ["supported"]
+        },
+        {
+            "name": "DOT",
+            "chainId": 56,
+            "symbol": "DOT",
+            "decimals": 18,
+            "address": "0x4432a6DcfAEAB227673B43C30c6fEf40eaBD5D30",
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/dot.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "BTC",
+            "chainId": 56,
+            "symbol": "BTC",
+            "decimals": 18,
+            "address": "0x0B1a87021ec75fBaE919b1e86b2B1335FFC8F4d3",
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/btc.svg",
+            "tags": ["supported"]
+        },
+        {
+            "name": "ETH",
+            "chainId": 56,
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x18eb8AF587dcd7E4F575040F6D800a6B5Cef6CAf",
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/btc.svg",
             "tags": ["supported"]
         },
         {
