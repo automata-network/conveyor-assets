@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 3,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tags": {
@@ -127,7 +127,7 @@
             "chainId": 56,
             "symbol": "DOT",
             "decimals": 18,
-            "address": "0x4432a6DcfAEAB227673B43C30c6fEf40eaBD5D30",
+            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
             "logoURI": "https://www.gemini.com/images/currencies/icons/default/dot.svg",
             "tags": ["supported"]
         },
@@ -136,7 +136,7 @@
             "chainId": 56,
             "symbol": "BTC",
             "decimals": 18,
-            "address": "0x0B1a87021ec75fBaE919b1e86b2B1335FFC8F4d3",
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
             "logoURI": "https://www.gemini.com/images/currencies/icons/default/btc.svg",
             "tags": ["supported"]
         },
@@ -145,7 +145,7 @@
             "chainId": 56,
             "symbol": "ETH",
             "decimals": 18,
-            "address": "0x18eb8AF587dcd7E4F575040F6D800a6B5Cef6CAf",
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
             "logoURI": "https://www.gemini.com/images/currencies/icons/default/eth.svg",
             "tags": ["supported"]
         },
