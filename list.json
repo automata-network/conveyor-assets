@@ -2,7 +2,7 @@
     "name": "GToken List",
     "version": {
         "major": 3,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tags": {
@@ -146,7 +146,7 @@
             "symbol": "ETH",
             "decimals": 18,
             "address": "0x18eb8AF587dcd7E4F575040F6D800a6B5Cef6CAf",
-            "logoURI": "https://www.gemini.com/images/currencies/icons/default/btc.svg",
+            "logoURI": "https://www.gemini.com/images/currencies/icons/default/eth.svg",
             "tags": ["supported"]
         },
         {
