@@ -1,216 +1,40 @@
 {
-    "name": "GToken List",
+    "name": "Automata Network",
     "version": {
-        "major": 4,
+        "major": 1,
         "minor": 0,
         "patch": 0
     },
-    "tags": {
-        "supported": {
-            "name": "Supported",
-            "description": "No front running"
-        }
-    },
-    "logoURI": "https://www.automatanetwork.com/img/logo.c7c1b703.png",
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
     "timestamp": "2021-05-05T20:55:51+0800",
     "tokens": [
         {
-            "name": "Geode ETH",
-            "chainId": 3,
-            "symbol": "gETH",
-            "decimals": 18,
-            "address": "0x37809fAC7cD4Fc4c4c9d7c7d2bB5eDd920DE9De2",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Geode Dai Stablecoin",
-            "chainId": 3,
-            "symbol": "gDAI",
-            "decimals": 18,
-            "address": "0xc16EC681A346BF0EeA607Ea5900724Ff26399030",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Geode USD Coin",
-            "chainId": 3,
-            "symbol": "gUSDC",
-            "decimals": 6,
-            "address": "0xFF2b28BE8B9a8e28f5f65a661879f7BeA3E1d611",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Geode Tether USD",
-            "chainId": 3,
-            "symbol": "gUSDT",
-            "decimals": 6,
-            "address": "0x0b8E3E331dAa0Cd134Ab1B5Bc6C7400486193BA8",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Dai Stablecoin",
-            "chainId": 97,
-            "symbol": "DAI",
-            "decimals": 18,
-            "address": "0x46B98eCfe9E90e1B1c03cbFFcbf72A5174b32C45",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "USD Coin",
-            "chainId": 97,
-            "symbol": "USDC",
-            "decimals": 6,
-            "address": "0xF420614AA5a7fc21038b3AF7C154440F96379CC8",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Tether USD",
-            "chainId": 97,
-            "symbol": "USDT",
-            "decimals": 6,
-            "address": "0x4C1Debf613b58519D15a0177dCDB5166186DE4DE",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Wrapped BNB",
-            "chainId": 97,
-            "symbol": "WBNB",
-            "decimals": 18,
-            "address": "0x4fB312374D8973BD14d46Ea53156d42024F4C012",
-            "logoURI": "https://www.gemini.com/images/currencies/icons/default/bnb.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "ATA",
-            "chainId": 97,
-            "symbol": "ATA",
-            "decimals": 18,
-            "address": "0x59988681a1E89bA6cA3454Ac7a8D0426A0479Bf9",
-            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
-            "tags": ["supported"]
-        },
-        {
-            "name": "USD Coin",
-            "chainId": 56,
-            "symbol": "USDC",
-            "decimals": 18,
-            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Tether USD",
-            "chainId": 56,
-            "symbol": "USDT",
-            "decimals": 18,
-            "address": "0x55d398326f99059fF775485246999027B3197955",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "ATA",
-            "chainId": 56,
-            "symbol": "ATA",
-            "decimals": 18,
-            "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
-            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
-            "tags": ["supported"]
-        },
-        {
-            "name": "DOT",
-            "chainId": 56,
-            "symbol": "DOT",
-            "decimals": 18,
-            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-            "logoURI": "https://www.gemini.com/images/currencies/icons/default/dot.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "BTC",
-            "chainId": 56,
-            "symbol": "BTC",
-            "decimals": 18,
-            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-            "logoURI": "https://www.gemini.com/images/currencies/icons/default/btc.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "ETH",
-            "chainId": 56,
-            "symbol": "ETH",
-            "decimals": 18,
-            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-            "logoURI": "https://www.gemini.com/images/currencies/icons/default/eth.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "USD Coin",
-            "chainId": 137,
-            "symbol": "USDC",
-            "decimals": 6,
-            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Tether USD",
-            "chainId": 137,
-            "symbol": "USDT",
-            "decimals": 6,
-            "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Wrapped Ether",
-            "chainId": 137,
-            "symbol": "WETH",
-            "decimals": 18,
-            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg",
-            "tags": ["supported"]
-        },
-        {
-            "name": "Quickswap",
-            "chainId": 137,
-            "symbol": "QUICK",
-            "decimals": 18,
-            "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
-            "logoURI": "https://quickswap.exchange/logo_circle.png",
-            "tags": ["supported"]
-        },
-        {
-            "name": "ATA",
+            "name": "Automata",
             "chainId": 1,
             "symbol": "ATA",
             "decimals": 18,
-            "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+            "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
             "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
-            "tags": ["supported"]
+            "tags": []
         },
         {
-            "name": "USD Coin",
-            "chainId": 1,
-            "symbol": "USDC",
-            "decimals": 6,
-            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg",
-            "tags": ["supported"]
+            "name": "Automata",
+            "chainId": 56,
+            "symbol": "ATA",
+            "decimals": 18,
+            "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+            "tags": []
         },
         {
-            "name": "Tether USD",
-            "chainId": 1,
-            "symbol": "USDT",
-            "decimals": 6,
-            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
-            "tags": ["supported"]
+            "name": "Automata",
+            "chainId": 137,
+            "symbol": "ATA",
+            "decimals": 18,
+            "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+            "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+            "tags": []
         }
     ]
-}
+  }
