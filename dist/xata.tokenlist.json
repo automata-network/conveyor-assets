@@ -1,13 +1,13 @@
 {
   "name": "XATA Token List",
-  "timestamp": "2021-10-08T05:01:44.084Z",
+  "timestamp": "2021-10-08T05:40:52.004Z",
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+  "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
   "keywords": [
     "xata",
     "automata",
