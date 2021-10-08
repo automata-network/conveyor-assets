@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Automata",
+    "chainId": 137,
+    "symbol": "ATA",
+    "decimals": 18,
+    "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+    "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+    "tags": []
+  }
+]
