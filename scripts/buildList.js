@@ -16,7 +16,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+      "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
     keywords: ["xata", "automata", "default"],
     tokens: [...mainnet, ...matic, ...bsc].sort((t1, t2) => {
       // sort them by symbol for easy readability
