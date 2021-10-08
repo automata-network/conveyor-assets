@@ -1,10 +1,10 @@
 {
   "name": "XATA Token List",
-  "timestamp": "2021-10-08T05:40:52.004Z",
+  "timestamp": "2021-10-08T06:04:41.668Z",
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
@@ -20,7 +20,7 @@
       "symbol": "ATA",
       "decimals": 18,
       "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
-      "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+      "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
       "tags": []
     },
     {
@@ -38,7 +38,7 @@
       "symbol": "ATA",
       "decimals": 18,
       "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
-      "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+      "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
       "tags": []
     },
     {
@@ -227,7 +227,7 @@
       "symbol": "ATA",
       "decimals": 18,
       "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
-      "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/automata.png",
+      "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
       "tags": []
     }
   ]
