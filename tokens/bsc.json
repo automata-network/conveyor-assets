@@ -196,5 +196,13 @@
     "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
     "logoURI": "https://www.gemini.com/images/currencies/icons/default/ftm.svg",
     "tags": []
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   }
 ]
