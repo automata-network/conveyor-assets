@@ -1,7 +1,7 @@
 [
   {
     "name": "USD Coin",
-    "chainId": 42161,
+    "chainId": 1285,
     "symbol": "USDC",
     "decimals": 6,
     "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Tether USD",
-    "chainId": 42161,
+    "chainId": 1285,
     "symbol": "USDT",
     "decimals": 6,
     "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Dai Stablecoin",
-    "chainId": 42161,
+    "chainId": 1285,
     "symbol": "DAI",
     "decimals": 18,
     "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Fantom",
-    "chainId": 42161,
+    "chainId": 1285,
     "symbol": "FTM",
     "decimals": 18,
     "address": "0xad12dab5959f30b9ff3c2d6709f53c335dc39908",
