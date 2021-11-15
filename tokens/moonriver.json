@@ -1,0 +1,47 @@
+[
+  {
+    "name": "USD Coin",
+    "chainId": 42161,
+    "symbol": "USDC",
+    "decimals": 6,
+    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/usdc.svg",
+    "tags": []
+  },
+  {
+    "name": "Tether USD",
+    "chainId": 42161,
+    "symbol": "USDT",
+    "decimals": 6,
+    "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "tags:": []
+  },
+  {
+    "name": "Wrapped MOVR",
+    "chainId": 1285,
+    "symbol": "WMOVR",
+    "decimals": 18,
+    "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+    "logoURI": null,
+    "tags": []
+  },
+  {
+    "name": "Dai Stablecoin",
+    "chainId": 42161,
+    "symbol": "DAI",
+    "decimals": 18,
+    "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/dai.svg",
+    "tags": []
+  },
+  {
+    "name": "Fantom",
+    "chainId": 42161,
+    "symbol": "FTM",
+    "decimals": 18,
+    "address": "0xad12dab5959f30b9ff3c2d6709f53c335dc39908",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/ftm.svg",
+    "tags": []
+  }
+]

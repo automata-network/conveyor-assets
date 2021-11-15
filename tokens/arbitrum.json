@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Automata",
+    "chainId": 42161,
+    "symbol": "ATA",
+    "decimals": 18,
+    "address": "0xac9ac2c17cdfed4abc80a53c5553388575714d03",
+    "logoURI": "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
+    "tags": []
+  },
+  {
+    "name": "USD Coin (Arb1)",
+    "chainId": 42161,
+    "symbol": "USDC",
+    "decimals": 6,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/usdc.svg",
+    "tags": []
+  },
+  {
+    "name": "Tether USD",
+    "chainId": 42161,
+    "symbol": "USDT",
+    "decimals": 6,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "tags:": []
+  },
+  {
+    "name": "Wrapped Ether",
+    "chainId": 42161,
+    "symbol": "WETH",
+    "decimals": 18,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/eth.svg",
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC",
+    "chainId": 42161,
+    "symbol": "WBTC",
+    "decimals": 8,
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "tags:": []
+  },
+  {
+    "name": "Uniswap",
+    "chainId": 42161,
+    "symbol": "UNI",
+    "decimals": 18,
+    "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/uni.svg",
+    "tags": []
+  },
+  {
+    "name": "ChainLink",
+    "chainId": 42161,
+    "symbol": "LINK",
+    "decimals": 18,
+    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/link.svg",
+    "tags": []
+  },
+  {
+    "name": "Dai",
+    "chainId": 42161,
+    "symbol": "DAI",
+    "decimals": 18,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/dai.svg",
+    "tags": []
+  },
+  {
+    "name": "Fantom",
+    "chainId": 42161,
+    "symbol": "FTM",
+    "decimals": 18,
+    "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/ftm.svg",
+    "tags": []
+  },
+  {
+    "name": "Graph",
+    "chainId": 42161,
+    "symbol": "GRT",
+    "decimals": 18,
+    "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/grt.svg",
+    "tags": []
+  },
+  {
+    "name": "Compound",
+    "chainId": 42161,
+    "symbol": "COMP",
+    "decimals": 18,
+    "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/comp.svg",
+    "tags": []
+  },
+  {
+    "name": "Sushi",
+    "chainId": 42161,
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/sushi.svg",
+    "tags": []
+  },
+  {
+    "name": "Gnosis",
+    "chainId": 42161,
+    "symbol": "GNO",
+    "decimals": 18,
+    "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+    "logoURI": "https://www.gemini.com/images/currencies/icons/default/gno.svg",
+    "tags": []
+  },
+  {
+    "name": "Badger",
+    "chainId": 42161,
+    "symbol": "BADGER",
+    "decimals": 18,
+    "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png",
+    "tags": []
+  },
+  {
+    "name": "Cream",
+    "chainId": 42161,
+    "symbol": "CREAM",
+    "decimals": 18,
+    "address": "0xf4d48ce3ee1ac3651998971541badbb9a14d7234",
+    "logoURI": "https://cryptologos.cc/logos/cream-finance-cream-logo.svg?v=014",
+    "tags": []
+  }
+]
