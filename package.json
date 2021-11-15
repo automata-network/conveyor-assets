@@ -1,6 +1,6 @@
 {
   "name": "@xata/tokenlist",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "XATA default token list",
   "repository": "https://github.com/automata-network/conveyor-assets.git",
   "author": "Arvianto Dwi <arvi@ata.network>",
@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "build": "rimraf dist && mkdir -p dist && node scripts/write.js > dist/xata.tokenlist.json",
-    "postinstall": "yarn build"
+    "prepare": "yarn build"
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
