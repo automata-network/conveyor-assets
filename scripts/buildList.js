@@ -5,6 +5,7 @@ const matic = require("../tokens/matic.json");
 const bsc = require("../tokens/bsc.json");
 const arbitrum = require("../tokens/arbitrum.json");
 const moonriver = require("../tokens/moonriver.json");
+const altlayer = require("../tokens/altlayer.json");
 
 module.exports = function buildList() {
   const [major, minor, patch] = version.split(".");
@@ -20,7 +21,7 @@ module.exports = function buildList() {
     logoURI:
       "https://raw.githubusercontent.com/automata-network/conveyor-assets/master/assets/automata.png",
     keywords: ["xata", "automata", "default"],
-    tokens: [...mainnet, ...matic, ...bsc, ...arbitrum, ...moonriver].sort((t1, t2) => {
+    tokens: [...mainnet, ...matic, ...bsc, ...arbitrum, ...moonriver, ...altlayer].sort((t1, t2) => {
       // sort them by symbol for easy readability
       if (t1.chainId === t2.chainId) {
         return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;

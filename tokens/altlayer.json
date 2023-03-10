@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Token A",
+    "chainId": 1000053,
+    "symbol": "TokenA",
+    "decimals": 18,
+    "address": "0xbDAF40FbfEA4596f129bD11d273c3Eb64d3B4c62",
+    "logoURI": "",
+    "tags": []
+  },
+  {
+    "name": "Token B",
+    "chainId": 1000053,
+    "symbol": "TokenB",
+    "decimals": 18,
+    "address": "0x15C702f2c01C109B3261EfFB0A6a48de0F3cEAE5",
+    "logoURI": "",
+    "tags": []
+  }
+]

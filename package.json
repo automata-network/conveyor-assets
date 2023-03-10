@@ -1,6 +1,6 @@
 {
   "name": "@xata/tokenlist",
-  "version": "5.2.2",
+  "version": "6.0.0",
   "description": "XATA default token list",
   "repository": "https://github.com/automata-network/conveyor-assets.git",
   "author": "Arvianto Dwi <arvi@ata.network>",
